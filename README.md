@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @xTuffnut
-- 👀 I’m interested in Mobile Development
+- 👋 Hi, I’m Slimane M'hamed aka Tuffnut
+- 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Computer Science in college
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in Instagram "@xtuffnut"
+- 📫 How to reach me on Instagram "@xtuffnut"
 
 <!---
 xTuffnut/xTuffnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
